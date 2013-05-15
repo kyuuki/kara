@@ -15,9 +15,14 @@
 		E318D5351743CA18003BB740 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E318D5341743CA18003BB740 /* AppDelegate.m */; };
 		E318D5371743CA18003BB740 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = E318D5361743CA18003BB740 /* Default.png */; };
 		E318D5391743CA18003BB740 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E318D5381743CA18003BB740 /* Default@2x.png */; };
-		E318D53B1743CA18003BB740 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E318D53A1743CA18003BB740 /* Default-568h@2x.png */; };
 		E318D53E1743CA18003BB740 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E318D53C1743CA18003BB740 /* MainStoryboard.storyboard */; };
 		E318D5411743CA18003BB740 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E318D5401743CA18003BB740 /* ViewController.m */; };
+		E318D54D1743CEFF003BB740 /* kara3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E318D5471743CEFF003BB740 /* kara3.jpg */; };
+		E318D54F1743CEFF003BB740 /* kara0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E318D5491743CEFF003BB740 /* kara0.jpg */; };
+		E318D5501743CEFF003BB740 /* kara4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E318D54A1743CEFF003BB740 /* kara4.jpg */; };
+		E318D5511743CEFF003BB740 /* kara1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E318D54B1743CEFF003BB740 /* kara1.jpg */; };
+		E318D5521743CEFF003BB740 /* kara5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E318D54C1743CEFF003BB740 /* kara5.jpg */; };
+		E318D5541743CFB7003BB740 /* kara2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E318D5531743CFB7003BB740 /* kara2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,10 +38,15 @@
 		E318D5341743CA18003BB740 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		E318D5361743CA18003BB740 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		E318D5381743CA18003BB740 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		E318D53A1743CA18003BB740 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		E318D53D1743CA18003BB740 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		E318D53F1743CA18003BB740 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E318D5401743CA18003BB740 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		E318D5471743CEFF003BB740 /* kara3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kara3.jpg; sourceTree = "<group>"; };
+		E318D5491743CEFF003BB740 /* kara0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kara0.jpg; sourceTree = "<group>"; };
+		E318D54A1743CEFF003BB740 /* kara4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kara4.jpg; sourceTree = "<group>"; };
+		E318D54B1743CEFF003BB740 /* kara1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kara1.jpg; sourceTree = "<group>"; };
+		E318D54C1743CEFF003BB740 /* kara5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kara5.jpg; sourceTree = "<group>"; };
+		E318D5531743CFB7003BB740 /* kara2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kara2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +93,12 @@
 		E318D52A1743CA18003BB740 /* Kara */ = {
 			isa = PBXGroup;
 			children = (
+				E318D5531743CFB7003BB740 /* kara2.jpg */,
+				E318D5471743CEFF003BB740 /* kara3.jpg */,
+				E318D5491743CEFF003BB740 /* kara0.jpg */,
+				E318D54A1743CEFF003BB740 /* kara4.jpg */,
+				E318D54B1743CEFF003BB740 /* kara1.jpg */,
+				E318D54C1743CEFF003BB740 /* kara5.jpg */,
 				E318D5331743CA18003BB740 /* AppDelegate.h */,
 				E318D5341743CA18003BB740 /* AppDelegate.m */,
 				E318D53C1743CA18003BB740 /* MainStoryboard.storyboard */,
@@ -102,7 +118,6 @@
 				E318D5321743CA18003BB740 /* Kara-Prefix.pch */,
 				E318D5361743CA18003BB740 /* Default.png */,
 				E318D5381743CA18003BB740 /* Default@2x.png */,
-				E318D53A1743CA18003BB740 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -161,8 +176,13 @@
 				E318D52F1743CA18003BB740 /* InfoPlist.strings in Resources */,
 				E318D5371743CA18003BB740 /* Default.png in Resources */,
 				E318D5391743CA18003BB740 /* Default@2x.png in Resources */,
-				E318D53B1743CA18003BB740 /* Default-568h@2x.png in Resources */,
 				E318D53E1743CA18003BB740 /* MainStoryboard.storyboard in Resources */,
+				E318D54D1743CEFF003BB740 /* kara3.jpg in Resources */,
+				E318D54F1743CEFF003BB740 /* kara0.jpg in Resources */,
+				E318D5501743CEFF003BB740 /* kara4.jpg in Resources */,
+				E318D5511743CEFF003BB740 /* kara1.jpg in Resources */,
+				E318D5521743CEFF003BB740 /* kara5.jpg in Resources */,
+				E318D5541743CFB7003BB740 /* kara2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +318,7 @@
 				E318D5461743CA18003BB740 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
