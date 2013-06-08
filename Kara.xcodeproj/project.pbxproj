@@ -28,6 +28,8 @@
 		E394905D176386B600192A8B /* Page3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E394905C176386B600192A8B /* Page3ViewController.m */; };
 		E3949060176386C700192A8B /* Page4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E394905F176386C700192A8B /* Page4ViewController.m */; };
 		E3949063176386E200192A8B /* Page5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E3949062176386E200192A8B /* Page5ViewController.m */; };
+		E3949065176392B400192A8B /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E3949064176392B400192A8B /* Icon.png */; };
+		E3949067176392BD00192A8B /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E3949066176392BD00192A8B /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +64,8 @@
 		E394905F176386C700192A8B /* Page4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page4ViewController.m; sourceTree = "<group>"; };
 		E3949061176386E200192A8B /* Page5ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page5ViewController.h; sourceTree = "<group>"; };
 		E3949062176386E200192A8B /* Page5ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page5ViewController.m; sourceTree = "<group>"; };
+		E3949064176392B400192A8B /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		E3949066176392BD00192A8B /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 		E318D5181743CA18003BB740 = {
 			isa = PBXGroup;
 			children = (
+				E3949066176392BD00192A8B /* Icon@2x.png */,
+				E3949064176392B400192A8B /* Icon.png */,
 				E318D52A1743CA18003BB740 /* Kara */,
 				E318D5231743CA18003BB740 /* Frameworks */,
 				E318D5221743CA18003BB740 /* Products */,
@@ -208,6 +214,8 @@
 				E318D5511743CEFF003BB740 /* kara1.jpg in Resources */,
 				E318D5521743CEFF003BB740 /* kara5.jpg in Resources */,
 				E318D5541743CFB7003BB740 /* kara2.jpg in Resources */,
+				E3949065176392B400192A8B /* Icon.png in Resources */,
+				E3949067176392BD00192A8B /* Icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
