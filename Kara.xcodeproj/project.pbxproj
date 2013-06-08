@@ -24,6 +24,10 @@
 		E318D5521743CEFF003BB740 /* kara5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E318D54C1743CEFF003BB740 /* kara5.jpg */; };
 		E318D5541743CFB7003BB740 /* kara2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E318D5531743CFB7003BB740 /* kara2.jpg */; };
 		E394905717480CAF00192A8B /* Page1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E394905617480CAF00192A8B /* Page1ViewController.m */; };
+		E394905A1763839400192A8B /* Page2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E39490591763839400192A8B /* Page2ViewController.m */; };
+		E394905D176386B600192A8B /* Page3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E394905C176386B600192A8B /* Page3ViewController.m */; };
+		E3949060176386C700192A8B /* Page4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E394905F176386C700192A8B /* Page4ViewController.m */; };
+		E3949063176386E200192A8B /* Page5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E3949062176386E200192A8B /* Page5ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +54,14 @@
 		E318D5531743CFB7003BB740 /* kara2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kara2.jpg; sourceTree = "<group>"; };
 		E394905517480CAF00192A8B /* Page1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page1ViewController.h; sourceTree = "<group>"; };
 		E394905617480CAF00192A8B /* Page1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page1ViewController.m; sourceTree = "<group>"; };
+		E39490581763839400192A8B /* Page2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page2ViewController.h; sourceTree = "<group>"; };
+		E39490591763839400192A8B /* Page2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page2ViewController.m; sourceTree = "<group>"; };
+		E394905B176386B500192A8B /* Page3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page3ViewController.h; sourceTree = "<group>"; };
+		E394905C176386B600192A8B /* Page3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page3ViewController.m; sourceTree = "<group>"; };
+		E394905E176386C700192A8B /* Page4ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page4ViewController.h; sourceTree = "<group>"; };
+		E394905F176386C700192A8B /* Page4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page4ViewController.m; sourceTree = "<group>"; };
+		E3949061176386E200192A8B /* Page5ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Page5ViewController.h; sourceTree = "<group>"; };
+		E3949062176386E200192A8B /* Page5ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Page5ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,11 +117,19 @@
 				E318D5331743CA18003BB740 /* AppDelegate.h */,
 				E318D5341743CA18003BB740 /* AppDelegate.m */,
 				E318D53C1743CA18003BB740 /* MainStoryboard.storyboard */,
+				E39490581763839400192A8B /* Page2ViewController.h */,
+				E39490591763839400192A8B /* Page2ViewController.m */,
 				E394905517480CAF00192A8B /* Page1ViewController.h */,
 				E394905617480CAF00192A8B /* Page1ViewController.m */,
 				E318D53F1743CA18003BB740 /* ViewController.h */,
 				E318D5401743CA18003BB740 /* ViewController.m */,
 				E318D52B1743CA18003BB740 /* Supporting Files */,
+				E394905B176386B500192A8B /* Page3ViewController.h */,
+				E394905C176386B600192A8B /* Page3ViewController.m */,
+				E394905E176386C700192A8B /* Page4ViewController.h */,
+				E394905F176386C700192A8B /* Page4ViewController.m */,
+				E3949061176386E200192A8B /* Page5ViewController.h */,
+				E3949062176386E200192A8B /* Page5ViewController.m */,
 			);
 			path = Kara;
 			sourceTree = "<group>";
@@ -202,6 +222,10 @@
 				E318D5351743CA18003BB740 /* AppDelegate.m in Sources */,
 				E318D5411743CA18003BB740 /* ViewController.m in Sources */,
 				E394905717480CAF00192A8B /* Page1ViewController.m in Sources */,
+				E394905A1763839400192A8B /* Page2ViewController.m in Sources */,
+				E394905D176386B600192A8B /* Page3ViewController.m in Sources */,
+				E3949060176386C700192A8B /* Page4ViewController.m in Sources */,
+				E3949063176386E200192A8B /* Page5ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,18 +1,18 @@
 //
-//  Page1ViewController.m
+//  Page4ViewController.m
 //  Kara
 //
-//  Created by 小林 裕樹 on 2013/05/19.
+//  Created by 小林 裕樹 on 2013/06/09.
 //  Copyright (c) 2013年 kyuuki. All rights reserved.
 //
 
-#import "Page1ViewController.h"
+#import "Page4ViewController.h"
 
-@interface Page1ViewController ()
+@interface Page4ViewController ()
 
 @end
 
-@implementation Page1ViewController
+@implementation Page4ViewController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -35,7 +35,7 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (IBAction)page1ReturnSegue:(UIStoryboardSegue *)segue
+- (IBAction)page4ReturnSegue:(UIStoryboardSegue *)segue
 {
     // 戻るための目印？！
 }
