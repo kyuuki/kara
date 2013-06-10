@@ -40,4 +40,8 @@
     // 戻るための目印？！
 }
 
+- (IBAction)touchUpInside:(id)sender {
+    NSURL *url = [NSURL URLWithString:@"http://www.karaweb.jp"];
+    [[UIApplication sharedApplication] openURL: url];
+}
 @end

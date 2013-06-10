@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface Page1ViewController : UIViewController
+- (IBAction)touchUpInside:(id)sender;
 
 @end
